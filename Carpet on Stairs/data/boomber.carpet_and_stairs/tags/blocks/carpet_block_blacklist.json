@@ -1,0 +1,9 @@
+{
+	"values": [
+		"minecraft:air",
+		"#minecraft:flower_pots",
+		"#minecraft:saplings",
+		"#minecraft:doors",
+		"minecraft:ladder"
+	]
+}
