@@ -1,0 +1,15 @@
+{
+	"criteria": {
+		"place": {
+			"trigger": "minecraft:placed_block",
+			"conditions": {
+				"item": {
+					"item": "minecraft:brown_carpet"
+				}
+			}
+		}
+	},
+	"rewards": {
+		"function": "boomber.carpet_and_stairs:place_carpet/brown"
+	}
+}
