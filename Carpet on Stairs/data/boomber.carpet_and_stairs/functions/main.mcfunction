@@ -5,8 +5,4 @@ execute as @e[type=armor_stand,tag=boomber.carpetted_carpetable] at @s run funct
 
 execute as @a[scores={bb.sneak=1..}] run tag @s add boomber.is_sneaking
 execute as @a[scores={bb.sneak=..0}] run tag @s remove boomber.is_sneaking
-<<<<<<< HEAD
 execute as @a[scores={bb.sneak=2..}] run scoreboard players set @s bb.sneak 0
-=======
-execute as @a[scores={bb.sneak=2..}] run scoreboard players set @s bb.sneak 0
->>>>>>> 4350e70305560229e09a1429be0c5f74a8ce086c
