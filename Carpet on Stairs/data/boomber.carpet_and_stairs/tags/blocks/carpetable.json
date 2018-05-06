@@ -6,13 +6,16 @@
 		"#minecraft:banners",
 		"#minecraft:anvil",
 		"#minecraft:rails",
+		"#minecraft:saplings",
 		"#boomber.carpet_and_stairs:fence",
 		"#boomber.carpet_and_stairs:fence_gate",
+		"#boomber.carpet_and_stairs:stained_glass",
 		"#boomber.carpet_and_stairs:stained_glass_pane",
 		"#boomber.carpet_and_stairs:head",
 		"#boomber.carpet_and_stairs:bed",
 		"#boomber.carpet_and_stairs:trapdoor",
 		"#boomber.carpet_and_stairs:pressure_plate",
+		"minecraft:glass",
 		"minecraft:glass_pane",
 		"minecraft:end_rod",
 		"minecraft:torch",
@@ -28,8 +31,13 @@
 		"minecraft:iron_bars",
 		"minecraft:sign",
 		"minecraft:wall_sign",
+		"minecraft:tripwire_hook",
 		"minecraft:tripwire",
 		"minecraft:redstone_wire",
-		"minecraft:brewing_stand"
+		"minecraft:brewing_stand",
+		"minecraft:cactus",
+		"minecraft:hopper",
+		"minecraft:cauldron",
+		"minecraft:turtle_egg"
 	]
 }

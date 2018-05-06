@@ -4,6 +4,10 @@
 		"#minecraft:flower_pots",
 		"#minecraft:saplings",
 		"#minecraft:doors",
-		"minecraft:ladder"
+		"minecraft:ladder",
+		"minecraft:cactus",
+		"minecraft:tripwire_hook",
+		"minecraft:tripwire",
+		"minecraft:turtle_egg"
 	]
 }

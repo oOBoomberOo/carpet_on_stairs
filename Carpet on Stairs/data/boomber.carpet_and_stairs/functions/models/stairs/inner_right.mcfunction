@@ -1,0 +1,16 @@
+execute as @s[tag=boomber.white] run data merge entity @s {ArmorItems:[{},{},{},{id:"diamond_hoe",Count:1b,tag:{Unbreakable:1b,Damage:1482}}]}
+execute as @s[tag=boomber.orange] run data merge entity @s {ArmorItems:[{},{},{},{id:"diamond_hoe",Count:1b,tag:{Unbreakable:1b,Damage:1483}}]}
+execute as @s[tag=boomber.magenta] run data merge entity @s {ArmorItems:[{},{},{},{id:"diamond_hoe",Count:1b,tag:{Unbreakable:1b,Damage:1484}}]}
+execute as @s[tag=boomber.light_blue] run data merge entity @s {ArmorItems:[{},{},{},{id:"diamond_hoe",Count:1b,tag:{Unbreakable:1b,Damage:1485}}]}
+execute as @s[tag=boomber.yellow] run data merge entity @s {ArmorItems:[{},{},{},{id:"diamond_hoe",Count:1b,tag:{Unbreakable:1b,Damage:1486}}]}
+execute as @s[tag=boomber.lime] run data merge entity @s {ArmorItems:[{},{},{},{id:"diamond_hoe",Count:1b,tag:{Unbreakable:1b,Damage:1487}}]}
+execute as @s[tag=boomber.pink] run data merge entity @s {ArmorItems:[{},{},{},{id:"diamond_hoe",Count:1b,tag:{Unbreakable:1b,Damage:1488}}]}
+execute as @s[tag=boomber.gray] run data merge entity @s {ArmorItems:[{},{},{},{id:"diamond_hoe",Count:1b,tag:{Unbreakable:1b,Damage:1489}}]}
+execute as @s[tag=boomber.light_gray] run data merge entity @s {ArmorItems:[{},{},{},{id:"diamond_hoe",Count:1b,tag:{Unbreakable:1b,Damage:1490}}]}
+execute as @s[tag=boomber.cyan] run data merge entity @s {ArmorItems:[{},{},{},{id:"diamond_hoe",Count:1b,tag:{Unbreakable:1b,Damage:1491}}]}
+execute as @s[tag=boomber.purple] run data merge entity @s {ArmorItems:[{},{},{},{id:"diamond_hoe",Count:1b,tag:{Unbreakable:1b,Damage:1492}}]}
+execute as @s[tag=boomber.blue] run data merge entity @s {ArmorItems:[{},{},{},{id:"diamond_hoe",Count:1b,tag:{Unbreakable:1b,Damage:1493}}]}
+execute as @s[tag=boomber.brown] run data merge entity @s {ArmorItems:[{},{},{},{id:"diamond_hoe",Count:1b,tag:{Unbreakable:1b,Damage:1494}}]}
+execute as @s[tag=boomber.green] run data merge entity @s {ArmorItems:[{},{},{},{id:"diamond_hoe",Count:1b,tag:{Unbreakable:1b,Damage:1495}}]}
+execute as @s[tag=boomber.red] run data merge entity @s {ArmorItems:[{},{},{},{id:"diamond_hoe",Count:1b,tag:{Unbreakable:1b,Damage:1496}}]}
+execute as @s[tag=boomber.black] run data merge entity @s {ArmorItems:[{},{},{},{id:"diamond_hoe",Count:1b,tag:{Unbreakable:1b,Damage:1497}}]}
