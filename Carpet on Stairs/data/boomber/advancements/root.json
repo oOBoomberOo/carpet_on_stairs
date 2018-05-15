@@ -1,0 +1,17 @@
+{
+	"display": {
+		"title": "Boomber",
+		"description": "",
+		"icon": {
+			"item": "minecraft:command_block"
+		},
+		"show_toast": false,
+		"announce_to_chat": false,
+		"background": "minecraft:textures/blocks/lime_concrete_powder.png"
+	},
+	"criteria": {
+		"trigger": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
