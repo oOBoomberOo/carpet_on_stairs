@@ -7,7 +7,7 @@
 		},
 		"show_toast": false,
 		"announce_to_chat": false,
-		"background": "minecraft:textures/blocks/lime_concrete_powder.png"
+		"background": "minecraft:textures/block/lime_concrete_powder.png"
 	},
 	"criteria": {
 		"trigger": {
