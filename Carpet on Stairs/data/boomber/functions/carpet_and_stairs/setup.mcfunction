@@ -10,9 +10,7 @@ scoreboard objectives add bb.dt_result dummy
 
 #0 for paper mode
 #1 for sneak mode
-scoreboard players set #carpetted_stairs_mode bb.gamerule 0
-
-gamerule commandBlockOutput false
+scoreboard players set #carpetted_stairs_mode bb.gamerule 1
 
 execute as @e[type=armor_stand,tag=boomber.carpetted_stairs] at @s unless entity @s[nbt={ArmorItems:[{},{},{},{id:"minecraft:diamond_hoe"}]}] run function boomber:carpet_and_stairs/convert/stairs
 execute as @e[type=armor_stand,tag=boomber.carpetted_slabs] at @s unless entity @s[nbt={ArmorItems:[{},{},{},{id:"minecraft:diamond_hoe"}]}] run function boomber:carpet_and_stairs/convert/slabs
