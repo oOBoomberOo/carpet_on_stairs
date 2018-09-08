@@ -6,9 +6,9 @@
 			"item": "minecraft:command_block"
 		},
 		"show_toast": false,
-		"announce_to_chat": false,
-		"background": "minecraft:textures/block/lime_concrete_powder.png"
+		"announce_to_chat": false
 	},
+	"parent": "global:root",
 	"criteria": {
 		"trigger": {
 			"trigger": "minecraft:tick"
