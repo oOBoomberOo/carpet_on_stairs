@@ -1,0 +1,17 @@
+{
+	"display": {
+		"title": "Carpet on Stairs v3",
+		"description": "18w50a+",
+		"icon": {
+			"item": "minecraft:red_carpet"
+		},
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"parent": "boomber:boomber",
+	"criteria": {
+		"trigger": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

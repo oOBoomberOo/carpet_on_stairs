@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:item",
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:8081060, ucit:{boomber:{carpet_on_stairs:{model:8081159}}, id: \"carpetted_stairs\", from: \"boomber:carpet_on_stairs\", author:[\"boomber\"] }}"
+						}
+					],
+					"name": "minecraft:white_carpet"
+				}
+			]
+		}
+	]
+}

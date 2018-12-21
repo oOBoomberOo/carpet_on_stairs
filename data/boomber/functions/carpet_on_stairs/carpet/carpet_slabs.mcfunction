@@ -1,0 +1,2 @@
+execute as @s at @s unless block ~ ~ ~ #boomber:carpet_on_stairs/slabs[type=bottom] run function boomber:carpet_on_stairs/break
+execute as @s at @s run function boomber:carpet_on_stairs/models/slabs/slab

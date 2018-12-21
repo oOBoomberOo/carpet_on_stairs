@@ -1,0 +1,677 @@
+{
+    "parent": "block/white_carpet",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 8081060
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/straight/1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081061
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/straight/2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081062
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/straight/3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081063
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/straight/4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081064
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/straight/5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081065
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/straight/6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081066
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/straight/7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081067
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/straight/8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081068
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/straight/9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081069
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/straight/10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081070
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/straight/11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081071
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/straight/12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081072
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/straight/13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081073
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/straight/14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081074
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/straight/15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081075
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/straight/16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081076
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_left/1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081077
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_left/2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081078
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_left/3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081079
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_left/4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081080
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_left/5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081081
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_left/6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081082
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_left/7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081083
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_left/8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081084
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_left/9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081085
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_left/10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081086
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_left/11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081087
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_left/12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081088
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_left/13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081089
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_left/14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081090
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_left/15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081091
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_left/16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081092
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_right/1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081093
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_right/2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081094
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_right/3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081095
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_right/4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081096
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_right/5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081097
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_right/6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081098
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_right/7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081099
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_right/8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081100
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_right/9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081101
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_right/10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081102
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_right/11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081103
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_right/12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081104
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_right/13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081105
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_right/14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081106
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_right/15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081107
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/inner_right/16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081108
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_left/1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081109
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_left/2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081110
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_left/3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081111
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_left/4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081112
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_left/5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081113
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_left/6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081114
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_left/7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081115
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_left/8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081116
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_left/9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081117
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_left/10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081118
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_left/11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081119
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_left/12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081120
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_left/13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081121
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_left/14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081122
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_left/15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081123
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_left/16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081124
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_right/1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081125
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_right/2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081126
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_right/3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081127
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_right/4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081128
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_right/5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081129
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_right/6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081130
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_right/7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081131
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_right/8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081132
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_right/9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081133
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_right/10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081134
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_right/11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081135
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_right/12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081136
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_right/13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081137
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_right/14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081138
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_right/15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081139
+            },
+            "model": "boomber:carpet_on_stairs/blocks/stairs/outer_right/16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081140
+            },
+            "model": "boomber:carpet_on_stairs/blocks/slabs/1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081141
+            },
+            "model": "boomber:carpet_on_stairs/blocks/slabs/2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081142
+            },
+            "model": "boomber:carpet_on_stairs/blocks/slabs/3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081143
+            },
+            "model": "boomber:carpet_on_stairs/blocks/slabs/4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081144
+            },
+            "model": "boomber:carpet_on_stairs/blocks/slabs/5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081145
+            },
+            "model": "boomber:carpet_on_stairs/blocks/slabs/6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081146
+            },
+            "model": "boomber:carpet_on_stairs/blocks/slabs/7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081147
+            },
+            "model": "boomber:carpet_on_stairs/blocks/slabs/8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081148
+            },
+            "model": "boomber:carpet_on_stairs/blocks/slabs/9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081149
+            },
+            "model": "boomber:carpet_on_stairs/blocks/slabs/10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081150
+            },
+            "model": "boomber:carpet_on_stairs/blocks/slabs/11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081151
+            },
+            "model": "boomber:carpet_on_stairs/blocks/slabs/12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081152
+            },
+            "model": "boomber:carpet_on_stairs/blocks/slabs/13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081153
+            },
+            "model": "boomber:carpet_on_stairs/blocks/slabs/14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081154
+            },
+            "model": "boomber:carpet_on_stairs/blocks/slabs/15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081155
+            },
+            "model": "boomber:carpet_on_stairs/blocks/slabs/16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081156
+            },
+            "model": "boomber:carpet_on_stairs/blocks/carpetable/1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081157
+            },
+            "model": "boomber:carpet_on_stairs/blocks/carpetable/2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081158
+            },
+            "model": "boomber:carpet_on_stairs/blocks/carpetable/3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081159
+            },
+            "model": "boomber:carpet_on_stairs/blocks/carpetable/4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081160
+            },
+            "model": "boomber:carpet_on_stairs/blocks/carpetable/5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081161
+            },
+            "model": "boomber:carpet_on_stairs/blocks/carpetable/6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081162
+            },
+            "model": "boomber:carpet_on_stairs/blocks/carpetable/7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081163
+            },
+            "model": "boomber:carpet_on_stairs/blocks/carpetable/8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081164
+            },
+            "model": "boomber:carpet_on_stairs/blocks/carpetable/9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081165
+            },
+            "model": "boomber:carpet_on_stairs/blocks/carpetable/10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081166
+            },
+            "model": "boomber:carpet_on_stairs/blocks/carpetable/11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081167
+            },
+            "model": "boomber:carpet_on_stairs/blocks/carpetable/12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081168
+            },
+            "model": "boomber:carpet_on_stairs/blocks/carpetable/13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081169
+            },
+            "model": "boomber:carpet_on_stairs/blocks/carpetable/14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081170
+            },
+            "model": "boomber:carpet_on_stairs/blocks/carpetable/15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8081171
+            },
+            "model": "boomber:carpet_on_stairs/blocks/carpetable/16"
+        }
+    ]
+}

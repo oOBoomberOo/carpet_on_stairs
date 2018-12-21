@@ -1,0 +1,6 @@
+{
+	"parent": "boomber:carpet_on_stairs/blocks/stairs/straight",
+	"textures": {
+		"texture": "minecraft:block/yellow_wool"
+	}
+}

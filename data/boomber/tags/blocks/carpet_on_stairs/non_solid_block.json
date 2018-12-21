@@ -1,0 +1,18 @@
+{
+	"values": [
+		"minecraft:air",
+		"#minecraft:flower_pots",
+		"#minecraft:saplings",
+		"#minecraft:leaves",
+		"#minecraft:doors",
+		"#minecraft:small_flowers",
+		"minecraft:ladder",
+		"minecraft:cactus",
+		"minecraft:tripwire_hook",
+		"minecraft:tripwire",
+		"minecraft:turtle_egg",
+		"minecraft:bell",
+		"minecraft:lantern",
+		"minecraft:grindstone"
+	]
+}
