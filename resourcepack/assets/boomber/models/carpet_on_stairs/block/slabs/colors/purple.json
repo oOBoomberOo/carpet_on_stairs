@@ -1,0 +1,6 @@
+{
+	"parent": "boomber:carpet_on_stairs/block/slabs/slabs",
+	"textures": {
+		"material": "block/purple_wool"
+	}
+}

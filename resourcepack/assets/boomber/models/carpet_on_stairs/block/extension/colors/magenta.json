@@ -1,0 +1,6 @@
+{
+	"parent": "boomber:carpet_on_stairs/block/extension/extension",
+	"textures": {
+		"material": "block/magenta_wool"
+	}
+}

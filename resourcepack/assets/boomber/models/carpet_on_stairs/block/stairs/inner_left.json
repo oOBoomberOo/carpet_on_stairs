@@ -1,0 +1,54 @@
+{
+	"parent": "boomber:carpet_on_stairs/block/base",
+	"textures": {
+		"material": "block/yellow_wool"
+	},
+	"elements": [
+		{
+			"from": [0, 8, 8],
+			"to": [8, 9, 16],
+			"faces": {
+				"south": {"uv": [0, 8, 8, 9], "texture": "#material"},
+				"west": {"uv": [8, 8, 16, 9], "texture": "#material"},
+				"up": {"uv": [0, 8, 8, 16], "texture": "#material"}
+			}
+		},
+		{
+			"from": [0, 9, 8],
+			"to": [8, 17, 9],
+			"faces": {
+				"south": {"uv": [0, 0, 8, 8], "texture": "#material"},
+				"west": {"uv": [8, 0, 9, 8], "texture": "#material"},
+				"up": {"uv": [0, 8, 8, 9], "texture": "#material"}
+			}
+		},
+		{
+			"from": [7, 9, 9],
+			"to": [8, 17, 16],
+			"faces": {
+				"south": {"uv": [7, 0, 8, 8], "texture": "#material"},
+				"west": {"uv": [9, 0, 16, 8], "texture": "#material"},
+				"up": {"uv": [7, 9, 8, 16], "texture": "#material"}
+			}
+		},
+		{
+			"from": [0, 16, 0],
+			"to": [8, 17, 8],
+			"faces": {
+				"north": {"uv": [8, 0, 16, 1], "texture": "#material"},
+				"west": {"uv": [0, 0, 8, 1], "texture": "#material"},
+				"up": {"uv": [0, 0, 8, 8], "texture": "#material"}
+			}
+		},
+		{
+			"from": [8, 16, 0],
+			"to": [16, 17, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 1], "texture": "#material"},
+				"east": {"uv": [0, 0, 16, 1], "texture": "#material"},
+				"south": {"uv": [8, 0, 16, 1], "texture": "#material"},
+				"up": {"uv": [8, 0, 16, 16], "texture": "#material"}
+			}
+		}
+	]
+}

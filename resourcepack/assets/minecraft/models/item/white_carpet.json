@@ -1,0 +1,677 @@
+{
+	"parent": "block/white_carpet",
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 8080000
+			},
+			"model": "boomber:carpet_on_stairs/block/extension/colors/white"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080001
+			},
+			"model": "boomber:carpet_on_stairs/block/extension/colors/orange"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080002
+			},
+			"model": "boomber:carpet_on_stairs/block/extension/colors/magenta"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080003
+			},
+			"model": "boomber:carpet_on_stairs/block/extension/colors/light_blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080004
+			},
+			"model": "boomber:carpet_on_stairs/block/extension/colors/yellow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080005
+			},
+			"model": "boomber:carpet_on_stairs/block/extension/colors/lime"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080006
+			},
+			"model": "boomber:carpet_on_stairs/block/extension/colors/pink"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080007
+			},
+			"model": "boomber:carpet_on_stairs/block/extension/colors/gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080008
+			},
+			"model": "boomber:carpet_on_stairs/block/extension/colors/light_gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080009
+			},
+			"model": "boomber:carpet_on_stairs/block/extension/colors/cyan"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080010
+			},
+			"model": "boomber:carpet_on_stairs/block/extension/colors/purple"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080011
+			},
+			"model": "boomber:carpet_on_stairs/block/extension/colors/blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080012
+			},
+			"model": "boomber:carpet_on_stairs/block/extension/colors/brown"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080013
+			},
+			"model": "boomber:carpet_on_stairs/block/extension/colors/green"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080014
+			},
+			"model": "boomber:carpet_on_stairs/block/extension/colors/red"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080015
+			},
+			"model": "boomber:carpet_on_stairs/block/extension/colors/black"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080016
+			},
+			"model": "boomber:carpet_on_stairs/block/slabs/colors/white"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080017
+			},
+			"model": "boomber:carpet_on_stairs/block/slabs/colors/orange"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080018
+			},
+			"model": "boomber:carpet_on_stairs/block/slabs/colors/magenta"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080019
+			},
+			"model": "boomber:carpet_on_stairs/block/slabs/colors/light_blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080020
+			},
+			"model": "boomber:carpet_on_stairs/block/slabs/colors/yellow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080021
+			},
+			"model": "boomber:carpet_on_stairs/block/slabs/colors/lime"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080022
+			},
+			"model": "boomber:carpet_on_stairs/block/slabs/colors/pink"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080023
+			},
+			"model": "boomber:carpet_on_stairs/block/slabs/colors/gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080024
+			},
+			"model": "boomber:carpet_on_stairs/block/slabs/colors/light_gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080025
+			},
+			"model": "boomber:carpet_on_stairs/block/slabs/colors/cyan"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080026
+			},
+			"model": "boomber:carpet_on_stairs/block/slabs/colors/purple"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080027
+			},
+			"model": "boomber:carpet_on_stairs/block/slabs/colors/blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080028
+			},
+			"model": "boomber:carpet_on_stairs/block/slabs/colors/brown"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080029
+			},
+			"model": "boomber:carpet_on_stairs/block/slabs/colors/green"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080030
+			},
+			"model": "boomber:carpet_on_stairs/block/slabs/colors/red"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080031
+			},
+			"model": "boomber:carpet_on_stairs/block/slabs/colors/black"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080032
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/straight/white"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080033
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/straight/orange"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080034
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/straight/magenta"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080035
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/straight/light_blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080036
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/straight/yellow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080037
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/straight/lime"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080038
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/straight/pink"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080039
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/straight/gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080040
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/straight/light_gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080041
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/straight/cyan"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080042
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/straight/purple"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080043
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/straight/blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080044
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/straight/brown"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080045
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/straight/green"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080046
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/straight/red"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080047
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/straight/black"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080048
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_left/white"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080049
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_left/orange"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080050
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_left/magenta"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080051
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_left/light_blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080052
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_left/yellow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080053
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_left/lime"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080054
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_left/pink"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080055
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_left/gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080056
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_left/light_gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080057
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_left/cyan"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080058
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_left/purple"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080059
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_left/blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080060
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_left/brown"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080061
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_left/green"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080062
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_left/red"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080063
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_left/black"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080064
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_right/white"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080065
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_right/orange"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080066
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_right/magenta"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080067
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_right/light_blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080068
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_right/yellow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080069
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_right/lime"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080070
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_right/pink"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080071
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_right/gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080072
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_right/light_gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080073
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_right/cyan"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080074
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_right/purple"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080075
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_right/blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080076
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_right/brown"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080077
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_right/green"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080078
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_right/red"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080079
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/inner_right/black"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080080
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_left/white"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080081
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_left/orange"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080082
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_left/magenta"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080083
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_left/light_blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080084
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_left/yellow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080085
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_left/lime"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080086
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_left/pink"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080087
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_left/gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080088
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_left/light_gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080089
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_left/cyan"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080090
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_left/purple"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080091
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_left/blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080092
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_left/brown"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080093
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_left/green"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080094
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_left/red"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080095
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_left/black"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080096
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_right/white"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080097
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_right/orange"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080098
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_right/magenta"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080099
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_right/light_blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080100
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_right/yellow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080101
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_right/lime"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080102
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_right/pink"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080103
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_right/gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080104
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_right/light_gray"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080105
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_right/cyan"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080106
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_right/purple"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080107
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_right/blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080108
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_right/brown"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080109
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_right/green"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080110
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_right/red"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080111
+			},
+			"model": "boomber:carpet_on_stairs/block/stairs/outer_right/black"
+		}
+	]
+}

@@ -1,0 +1,60 @@
+{
+	"parent": "boomber:carpet_on_stairs/block/base",
+	"textures": {
+		"material": "block/white_wool"
+	},
+	"elements": [
+		{
+			"from": [-1, 0, 0],
+			"to": [0, 8, 16],
+			"color": 6,
+			"faces": {
+				"north": {"uv": [0, 0, 1, 8], "texture": "#material"},
+				"east": {"uv": [0, 0, 16, 8], "texture": "#material"},
+				"south": {"uv": [0, 0, 1, 8], "texture": "#material"},
+				"west": {"uv": [0, 0, 16, 8], "texture": "#material"},
+				"up": {"uv": [0, 0, 1, 16], "texture": "#material"},
+				"down": {"uv": [0, 0, 1, 16], "texture": "#material"}
+			}
+		},
+		{
+			"from": [-1, 8, 0],
+			"to": [8, 9, 16],
+			"color": 1,
+			"faces": {
+				"north": {"uv": [0, 0, 9, 1], "texture": "#material"},
+				"east": {"uv": [0, 0, 16, 1], "texture": "#material"},
+				"south": {"uv": [0, 0, 9, 1], "texture": "#material"},
+				"west": {"uv": [0, 0, 16, 1], "texture": "#material"},
+				"up": {"uv": [0, 0, 9, 16], "texture": "#material"},
+				"down": {"uv": [0, 0, 9, 16], "texture": "#material"}
+			}
+		},
+		{
+			"from": [7, 9, 0],
+			"to": [8, 16, 16],
+			"color": 2,
+			"faces": {
+				"north": {"uv": [0, 0, 1, 7], "texture": "#material"},
+				"east": {"uv": [0, 0, 16, 7], "texture": "#material"},
+				"south": {"uv": [0, 0, 1, 7], "texture": "#material"},
+				"west": {"uv": [0, 0, 16, 7], "texture": "#material"},
+				"up": {"uv": [0, 0, 1, 16], "texture": "#material"},
+				"down": {"uv": [0, 0, 1, 16], "texture": "#material"}
+			}
+		},
+		{
+			"from": [7, 16, 0],
+			"to": [16, 17, 16],
+			"color": 6,
+			"faces": {
+				"north": {"uv": [0, 0, 9, 1], "texture": "#material"},
+				"east": {"uv": [0, 0, 16, 1], "texture": "#material"},
+				"south": {"uv": [0, 0, 9, 1], "texture": "#material"},
+				"west": {"uv": [0, 0, 16, 1], "texture": "#material"},
+				"up": {"uv": [0, 0, 9, 16], "texture": "#material"},
+				"down": {"uv": [0, 0, 9, 16], "texture": "#material"}
+			}
+		}
+	]
+}
