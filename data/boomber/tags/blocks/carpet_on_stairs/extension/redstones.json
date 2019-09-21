@@ -1,0 +1,11 @@
+{
+	"values": [
+		"#minecraft:buttons",
+		"#boomber:carpet_on_stairs/extension/pressure_plates",
+		"minecraft:lever",
+		"minecraft:repeater",
+		"minecraft:comparator",
+		"minecraft:redstone_wire",
+		"minecraft:hopper"
+	]
+}

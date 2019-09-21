@@ -1,0 +1,1 @@
+scoreboard players set #bb.cs.base_color bb.variable 64

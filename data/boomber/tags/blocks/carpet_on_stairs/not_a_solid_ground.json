@@ -1,0 +1,12 @@
+{
+	"values": [
+		"#minecraft:doors",
+		"#minecraft:tall_flowers",
+		"minecraft:air",
+		"minecraft:cave_air",
+		"minecraft:void_air",
+		"minecraft:kelp",
+		"minecraft:kelp_plant",
+		"minecraft:ladder"
+	]
+}

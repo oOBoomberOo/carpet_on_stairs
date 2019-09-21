@@ -1,0 +1,1 @@
+playsound minecraft:block.wool.break block @a ~ ~ ~

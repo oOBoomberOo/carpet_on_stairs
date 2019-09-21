@@ -1,0 +1,18 @@
+{
+	"display": {
+		"title": "Carpet on Stairs v4.0",
+		"description": "A complete rewrite",
+		"icon": {
+			"item": "minecraft:red_carpet"
+		},
+		"announce_to_chat": false,
+		"show_toast": false
+	},
+	"parent": "boomber:boomber",
+	"criteria": {
+		"trigger": {
+			"trigger": "minecraft:tick"
+		}
+	
+	}
+}

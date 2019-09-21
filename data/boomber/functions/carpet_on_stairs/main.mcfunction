@@ -1,0 +1,1 @@
+execute as @e[type=armor_stand, tag=boomber.carpet_on_stairs.carpet] at @s run function boomber:carpet_on_stairs/carpet/main
