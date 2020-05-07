@@ -10,7 +10,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{CustomModelData: 0, ucit: {id: \"carpet\", from: \"boomber:carpet_on_stairs\"}}"
+							"tag": "{CustomModelData: 0, ctc: {id: \"carpet\", from: \"boomber:carpet_on_stairs\", traits: []}}"
 						}
 					]
 				}
