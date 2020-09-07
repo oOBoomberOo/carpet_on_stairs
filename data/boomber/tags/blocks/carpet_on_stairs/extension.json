@@ -12,6 +12,7 @@
 		"#minecraft:signs",
 		"#minecraft:beds",
 		"#minecraft:rails",
+		"#minecraft:flower_pots",
 		"#boomber:carpet_on_stairs/extension/mushrooms",
 		"#boomber:carpet_on_stairs/extension/saplings",
 		"#boomber:carpet_on_stairs/extension/torches",
@@ -35,6 +36,7 @@
 		"minecraft:iron_bars",
 		"minecraft:bell",
 		"minecraft:grindstone",
-		"minecraft:lantern"
+		"minecraft:lantern",
+		"minecraft:flower_pot"
 	]
 }
