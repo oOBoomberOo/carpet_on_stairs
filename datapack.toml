@@ -1,0 +1,6 @@
+[datapack]
+includes = ["data/*", "pack.mcmeta"]
+
+[resourcepack]
+base_dir = "resourcepack"
+includes = ["*"]
