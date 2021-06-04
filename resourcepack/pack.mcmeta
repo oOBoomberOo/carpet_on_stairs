@@ -1,10 +1,6 @@
 {
 	"pack": {
-		"pack_format": 5,
-		"description": [
-			{"text": "This is a ", "color": "green"},
-			{"text": "resourcepack", "color": "green", "underlined": true},
-			{"text": " for Carpet on Stairs datapack ✔", "color": "green"}	
-		]
+		"pack_format": 7,
+		"description": "Carpet on Stairs' resourcepack"
 	}
 }
