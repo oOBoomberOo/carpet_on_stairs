@@ -1,0 +1,4 @@
+function boomber:carpet_on_stairs/carpetted_stairs/[color]/variant/get
+execute unless score @s bb.cs.variant = $variant bb.cs.var run function boomber:carpet_on_stairs/carpetted_stairs/[color]/update
+
+execute unless block ~ ~ ~ #boomber:carpet_on_stairs/stairs run function boomber:carpet_on_stairs/carpetted_stairs/[color]/remove

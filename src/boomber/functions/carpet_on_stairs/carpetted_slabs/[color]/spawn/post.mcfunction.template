@@ -1,0 +1,10 @@
+function boomber:carpet_on_stairs/util/get_kind
+function boomber:carpet_on_stairs/util/get_color
+
+scoreboard players operation #color bb.cs.var = $base_model bb.cs.var
+scoreboard players operation #color bb.cs.var += $kind bb.cs.var
+scoreboard players operation #color bb.cs.var += $color bb.cs.var
+
+execute store result entity @s ArmorItems[-1].tag.CustomModelData int 1 run scoreboard players get #color bb.cs.var
+
+tag @s remove carpet_on_stairs.temp

@@ -1,0 +1,5 @@
+summon armor_stand ~ ~ ~ {Tags: ['carpet_on_stairs.temp', 'carpet_on_stairs.renderer', 'carpet_on_stairs.carpetted_stairs', 'carpet_on_stairs.color.[color]', 'global.ignore', 'global.ignore.pos', 'global.ignore.gui'], Invisible: 1b, Marker: 1b, Small: 1b, Silent: 1b, Invulnerable: 1b, ArmorItems: [{}, {}, {}, {id: 'minecraft:white_carpet', Count: 1b, tag: {CustomModelData: 8080000, ctc: {id: '[color]_carpet', from: 'boomber:carpet_on_stairs', traits: {}}}}]}
+
+execute as @e[type=armor_stand, tag=carpet_on_stairs.temp, limit=1] run function boomber:carpet_on_stairs/carpetted_stairs/[color]/spawn/post
+
+scoreboard players set #spawned bb.cs.var 1

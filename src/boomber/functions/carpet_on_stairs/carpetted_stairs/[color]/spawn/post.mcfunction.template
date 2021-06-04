@@ -1,0 +1,5 @@
+function boomber:carpet_on_stairs/carpetted_stairs/[color]/variant/get
+function boomber:carpet_on_stairs/carpetted_stairs/[color]/update
+function boomber:carpet_on_stairs/carpetted_stairs/[color]/spawn/rotation
+
+tag @s remove carpet_on_stairs.temp

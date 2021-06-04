@@ -1,0 +1,3 @@
+function boomber:carpet_on_stairs/event/place/[color]_carpet/spawn
+
+execute if score #spawned bb.cs.var matches 1 run fill ^-1 ^ ^ ^-1 ^ ^ minecraft:air replace minecraft:[color]_carpet

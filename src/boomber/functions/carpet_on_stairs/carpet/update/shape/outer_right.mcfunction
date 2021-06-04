@@ -1,1 +1,0 @@
-scoreboard players set #base_color bb.cs.var 96

@@ -1,0 +1,6 @@
+#!/bin/bash
+
+megu
+
+# remove .template extension from the file under data/ directory
+find data -type f -name "*.template" -exec sh -c 'mv -- "$1" "${1%.template}"' _ {} \;

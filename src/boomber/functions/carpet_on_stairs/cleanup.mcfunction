@@ -1,5 +1,4 @@
-scoreboard objectives remove bb.cs.color
-scoreboard objectives remove bb.cs.success
 scoreboard objectives remove bb.cs.var
+scoreboard objectives remove bb.cs.variant
 
-kill @e[tag=boomber.carpet_on_stairs.carpet]
+kill @e[tag=carpet_on_stairs.renderer]

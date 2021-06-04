@@ -1,0 +1,17 @@
+function boomber:carpet_on_stairs/util/get_color
+function boomber:carpet_on_stairs/util/get_kind
+
+# magic number: straight stairs model start at 32 but offset is always non-zero so the resulting model will always be +16 index shift
+scoreboard players remove $kind bb.cs.var 16
+
+scoreboard players set #offset bb.cs.var 16
+scoreboard players operation #offset bb.cs.var *= $variant bb.cs.var
+
+scoreboard players operation #color bb.cs.var = $base_model bb.cs.var
+scoreboard players operation #color bb.cs.var += $color bb.cs.var
+scoreboard players operation #color bb.cs.var += $kind bb.cs.var
+scoreboard players operation #color bb.cs.var += #offset bb.cs.var
+
+execute store result entity @s ArmorItems[-1].tag.CustomModelData int 1 run scoreboard players get #color bb.cs.var
+
+scoreboard players operation @s bb.cs.variant = $variant bb.cs.var

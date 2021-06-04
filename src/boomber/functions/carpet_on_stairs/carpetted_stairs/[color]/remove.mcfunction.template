@@ -1,0 +1,6 @@
+playsound minecraft:block.wool.break block @a ~ ~ ~
+particle block minecraft:[color]_wool ~ ~ ~ 0.35 0.35 0.35 1 10 normal @a
+
+loot spawn ~ ~ ~ loot boomber:carpet_on_stairs/item/[color]_carpet
+
+kill @s

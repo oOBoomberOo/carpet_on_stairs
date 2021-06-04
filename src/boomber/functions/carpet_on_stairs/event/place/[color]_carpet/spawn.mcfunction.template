@@ -1,0 +1,11 @@
+scoreboard players set #spawned bb.cs.var 0
+
+execute if block ~ ~ ~ #boomber:carpet_on_stairs/extension run function boomber:carpet_on_stairs/carpetted_extension/[color]/spawn
+
+execute if block ~ ~ ~ #boomber:carpet_on_stairs/stairs[half=bottom] run function boomber:carpet_on_stairs/carpetted_stairs/[color]/spawn
+execute if block ~ ~ ~ #boomber:carpet_on_stairs/stairs[half=top] run function boomber:carpet_on_stairs/carpetted_extension/[color]/spawn
+
+execute if block ~ ~ ~ #boomber:carpet_on_stairs/slabs[type=bottom] run function boomber:carpet_on_stairs/carpetted_slabs/[color]/spawn
+execute if block ~ ~ ~ #boomber:carpet_on_stairs/slabs[type=top] run function boomber:carpet_on_stairs/carpetted_extension/[color]/spawn
+
+scoreboard players set #raycast bb.cs.var 1

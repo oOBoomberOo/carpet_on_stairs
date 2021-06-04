@@ -1,0 +1,1 @@
+execute unless block ~ ~ ~ #boomber:carpet_on_stairs/slabs run function boomber:carpet_on_stairs/carpetted_slabs/[color]/remove

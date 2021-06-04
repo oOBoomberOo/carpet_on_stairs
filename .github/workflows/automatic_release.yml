@@ -17,8 +17,8 @@ jobs:
         with:
           version: '0.3.0'
       
-      - name: Build Megumax
-        run: megu
+      - name: Build Project
+        run: ./build
 
       - name: Release Datapack
         uses: oOBoomberOo/datapack-pipeline@v1

@@ -1,0 +1,16 @@
+{
+	"criteria": {
+		"place_carpet": {
+			"trigger": "minecraft:placed_block",
+			"conditions": {
+				"item": {
+					"item": "minecraft:[color]_carpet"
+				}
+			}
+		}
+	},
+	"parent": "boomber:carpet_on_stairs/event/root",
+	"rewards": {
+		"function": "boomber:carpet_on_stairs/event/place/[color]_carpet/run"
+	}
+}

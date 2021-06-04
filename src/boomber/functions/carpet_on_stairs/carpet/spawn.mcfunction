@@ -1,2 +1,0 @@
-summon armor_stand ~ ~ ~ {Tags: ['boomber.carpet_on_stairs.carpet', 'boomber.carpet_on_stairs.spawning', 'global.ignore', 'global.ignore.pos', 'global.ignore.gui'], Invisible: 1b, Marker: 1b, Small: 1b, Silent: 1b, Invulnerable: 1b}
-execute as @e[type=armor_stand, tag=boomber.carpet_on_stairs.spawning, limit=1] run function boomber:carpet_on_stairs/carpet/spawn/init

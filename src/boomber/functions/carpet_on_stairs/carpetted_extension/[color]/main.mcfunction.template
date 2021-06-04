@@ -1,0 +1,1 @@
+execute unless block ~ ~ ~ #boomber:carpet_on_stairs/extension unless block ~ ~ ~ #boomber:carpet_on_stairs/slabs[type=top] unless block ~ ~ ~ #boomber:carpet_on_stairs/stairs[half=top] run function boomber:carpet_on_stairs/carpetted_extension/[color]/remove
